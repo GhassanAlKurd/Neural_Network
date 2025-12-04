@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tqdm
+scikit-learn
+streamlit
+streamlit-drawable-canvas
+pillow
+pandas
+altair

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+mnist_weights.npz
+
+
+
