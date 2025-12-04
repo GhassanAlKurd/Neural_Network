@@ -76,11 +76,12 @@ This frontend is highly polished and clearly explains every step of the classifi
 ## 🗂️ Project Structure
 
 Neural_Net_Project/
-│── app.py # Streamlit digit classifier UI
-│── neural_net.py # Full neural network implementation (NumPy)
-│── mnist_weights.npz # Saved trained weights
-│── requirements.txt # Dependencies
-│── README.md # Documentation
+│
+├── app.py               # Streamlit digit classifier UI
+├── neural_net.py        # Full neural network implementation (NumPy)
+├── mnist_weights.npz    # Saved trained weights
+├── requirements.txt     # Dependencies
+└── README.md            # Documentation
 ---
 
 ## 📘 How the Neural Network Works
